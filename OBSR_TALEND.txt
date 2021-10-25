@@ -1,0 +1,8 @@
+mappings created not in a order
+archive functionality not working
+if connector run without i/p files empty log is getting created
+if no metadata, still mappings are getting created with input files
+
+graphical designer
+in mcl_220_nmwo 
+some connection & result of query components are coming in the graphical designer
